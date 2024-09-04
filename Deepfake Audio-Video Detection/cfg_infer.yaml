@@ -1,0 +1,17 @@
+video_input_path: "test_data/*.mp4"
+
+spectrum_output_dir: "spectrum/"
+
+test_label_path: "test_label.txt"
+
+pretrained_weight_path: "checkpoints/resnet101-5d3b4d8f.pth"
+
+checkpoint_path: "checkpoints/model_use_all_DA_99.73935.pt"
+
+result_path: "results/"
+
+unknown: "prediction_phase2.txt.csv"
+
+
+
+

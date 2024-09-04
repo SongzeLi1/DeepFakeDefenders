@@ -1,0 +1,21 @@
+train_video_input_path: "train_data/*.mp4"
+
+train_output_dir: "spectrum/"
+
+train_label_path: "train_label.txt"
+
+val_video_input_path: "val_data/*.mp4"
+
+val_output_dir: "spectrum/"
+
+val_label_path: "val_label.txt"
+
+pretrained_weight_path: "checkpoints/resnet101-5d3b4d8f.pth"
+
+checkpoint_output_path: "checkpoints/"
+
+
+
+
+
+

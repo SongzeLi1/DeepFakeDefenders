@@ -1,0 +1,9 @@
+torch
+torchvision
+pandas
+opencv-python
+numpy
+Pillow
+timm
+moviepy
+librosa
